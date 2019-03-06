@@ -29,8 +29,8 @@ Do tworzenia kolumn wykorzystujemy parametry ID i name. ID jest tworzone przez s
 var baseUrl = 'https://kodilla.com/pl/bootcamp-api';
 var prefix = "https://cors-anywhere.herokuapp.com/";
 var myHeaders = {
-  'X-Client-Id': 'X-Client-Id',
-  'X-Auth-Token': 'X-Auth-Token'
+  'X-Client-Id': '3800',
+  'X-Auth-Token': '53aaf4837fa7f49bbb961c529a206653'
 };
 
 // Pobieranie tablicy metoda GET endpoint to /board + funkcja odpytujaca o zasob tablicy
